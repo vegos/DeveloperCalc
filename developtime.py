@@ -1,12 +1,13 @@
 #!/usr/bin/python
 #
-#        Simple Developer Time / Temp Calculator
+#    (Very) Simple Developer Time / Temp Calculator
 # (c)2014, Antonis Maglaras / maglaras at gmail dot com
+#                          v0.3
 #
 import math
 print
-print ("DEVELOPER TIME CALCULATOR")
-print ("(c)2014, Antonis Maglaras")
+print ("DEVELOPER TEMP/TIME CALCULATOR")
+print ("(c)2014-2023, Antonis Maglaras")
 print
 
 # roundtime = 1 if you want to round time
